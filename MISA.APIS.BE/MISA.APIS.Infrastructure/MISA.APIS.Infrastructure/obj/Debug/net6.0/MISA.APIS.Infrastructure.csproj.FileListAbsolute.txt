@@ -1,0 +1,15 @@
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Infrastructure\MISA.APIS.Infrastructure\bin\Debug\net6.0\MISA.APIS.Infrastructure.deps.json
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Infrastructure\MISA.APIS.Infrastructure\bin\Debug\net6.0\MISA.APIS.Infrastructure.dll
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Infrastructure\MISA.APIS.Infrastructure\bin\Debug\net6.0\MISA.APIS.Infrastructure.pdb
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Infrastructure\MISA.APIS.Infrastructure\obj\Debug\net6.0\MISA.APIS.Infrastructure.csproj.AssemblyReference.cache
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Infrastructure\MISA.APIS.Infrastructure\obj\Debug\net6.0\MISA.APIS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Infrastructure\MISA.APIS.Infrastructure\obj\Debug\net6.0\MISA.APIS.Infrastructure.AssemblyInfoInputs.cache
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Infrastructure\MISA.APIS.Infrastructure\obj\Debug\net6.0\MISA.APIS.Infrastructure.AssemblyInfo.cs
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Infrastructure\MISA.APIS.Infrastructure\obj\Debug\net6.0\MISA.APIS.Infrastructure.csproj.CoreCompileInputs.cache
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Infrastructure\MISA.APIS.Infrastructure\obj\Debug\net6.0\MISA.APIS.Infrastructure.dll
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Infrastructure\MISA.APIS.Infrastructure\obj\Debug\net6.0\refint\MISA.APIS.Infrastructure.dll
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Infrastructure\MISA.APIS.Infrastructure\obj\Debug\net6.0\MISA.APIS.Infrastructure.pdb
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Infrastructure\MISA.APIS.Infrastructure\obj\Debug\net6.0\ref\MISA.APIS.Infrastructure.dll
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Infrastructure\MISA.APIS.Infrastructure\bin\Debug\net6.0\MISA.APIS.Core.dll
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Infrastructure\MISA.APIS.Infrastructure\bin\Debug\net6.0\MISA.APIS.Core.pdb
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Infrastructure\MISA.APIS.Infrastructure\obj\Debug\net6.0\MISA.APIS.Infrastructure.csproj.CopyComplete

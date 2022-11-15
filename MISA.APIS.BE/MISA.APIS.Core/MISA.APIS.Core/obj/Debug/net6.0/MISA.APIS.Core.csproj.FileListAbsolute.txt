@@ -1,0 +1,14 @@
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Core\MISA.APIS.Core\bin\Debug\net6.0\MISA.APIS.Core.deps.json
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Core\MISA.APIS.Core\bin\Debug\net6.0\MISA.APIS.Core.dll
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Core\MISA.APIS.Core\bin\Debug\net6.0\MISA.APIS.Core.pdb
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Core\MISA.APIS.Core\obj\Debug\net6.0\MISA.APIS.Core.csproj.AssemblyReference.cache
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Core\MISA.APIS.Core\obj\Debug\net6.0\MISA.APIS.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Core\MISA.APIS.Core\obj\Debug\net6.0\MISA.APIS.Core.AssemblyInfoInputs.cache
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Core\MISA.APIS.Core\obj\Debug\net6.0\MISA.APIS.Core.AssemblyInfo.cs
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Core\MISA.APIS.Core\obj\Debug\net6.0\MISA.APIS.Core.csproj.CoreCompileInputs.cache
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Core\MISA.APIS.Core\obj\Debug\net6.0\MISA.APIS.Core.dll
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Core\MISA.APIS.Core\obj\Debug\net6.0\refint\MISA.APIS.Core.dll
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Core\MISA.APIS.Core\obj\Debug\net6.0\MISA.APIS.Core.pdb
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Core\MISA.APIS.Core\obj\Debug\net6.0\ref\MISA.APIS.Core.dll
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Core\MISA.APIS.Core\obj\Debug\net6.0\MISA.APIS.Core.Resource.ResourceVN.resources
+E:\MisaProject\MISA_APIS\MISA.APIS.BE\MISA.APIS.Core\MISA.APIS.Core\obj\Debug\net6.0\MISA.APIS.Core.csproj.GenerateResource.cache

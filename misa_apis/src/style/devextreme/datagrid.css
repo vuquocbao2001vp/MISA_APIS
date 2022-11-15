@@ -1,0 +1,53 @@
+.dx-datagrid .dx-column-lines > td {
+    border: none !important;
+}
+.dx-datagrid-rowsview .dx-row:hover {
+    cursor: pointer;
+    background-color: #e6f7ff !important;
+}
+
+.dx-datagrid-headers {
+    color: var(--text-primary-color) !important;
+    font-weight: 700 !important;
+}
+
+.dx-datagrid-borders .dx-datagrid-rowsview, .dx-datagrid-headers + .dx-datagrid-rowsview, .dx-datagrid-rowsview.dx-datagrid-after-headers {
+    border-top: none !important;
+}
+.dx-datagrid-borders > .dx-datagrid-rowsview, .dx-datagrid-borders > .dx-datagrid-total-footer {
+    border-bottom: none !important;
+}
+.dx-datagrid-borders > .dx-datagrid-headers, .dx-datagrid-borders > .dx-datagrid-rowsview, .dx-datagrid-borders > .dx-datagrid-total-footer {
+    border-left: none !important;
+    border-right: none !important;
+}
+.dx-datagrid .dx-row>td {
+    padding: 0 16px !important;
+    padding-top: 0!important;
+    padding-bottom: 0!important;
+    height: 48px!important;
+    vertical-align: middle!important;
+}
+.dx-datagrid-content .dx-datagrid-table {
+    height: 48px !important;
+}
+
+.content-grid .dx-gridbase-container > .dx-datagrid-rowsview {
+    height: calc(100vh - 244px) !important;
+}
+.popup-grid .dx-gridbase-container > .dx-datagrid-rowsview {
+    height: calc(85vh - 342px) !important;
+}
+.dx-datagrid-rowsview {
+    overflow: auto !important;
+}
+.dx-scrollable-simulated {
+    overflow: hidden!important;
+}
+.dx-datagrid-rowsview .dx-selection.dx-row:not(.dx-row-focused) > td, .dx-datagrid-rowsview .dx-selection.dx-row:not(.dx-row-focused) > tr > td, .dx-datagrid-rowsview .dx-selection.dx-row:not(.dx-row-focused):hover > td, .dx-datagrid-rowsview .dx-selection.dx-row:not(.dx-row-focused):hover > tr > td {
+    color: var(--text-primary-color) !important;
+    background-color: #e6f7ff !important;
+}
+.dx-row:hover .cell-button {
+    display: block;
+}

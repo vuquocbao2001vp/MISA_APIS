@@ -1,0 +1,134 @@
+.icon-sidebar {
+    background-image: url(../../assets/Icons/icon-app-gray.eec2ff5c.svg);
+}
+.logo {
+    background-image: url(../../assets/Icons/logo_KienNghi.f5b39ffd.svg);
+}
+.avatar-girl {
+    background-image: url(../../assets/Icons/getavatar.png);
+}
+.icon-noti {
+    background-image: url(../../assets/Icons/noti-icon.eab4c40d.svg);
+}
+.icon-help {
+    background-image: url(../../assets/Icons/help-icon.4ba27481.svg);
+}
+.icon-user {
+    background-color: var(--icon-default-color);
+    mask: url(../../assets/Icons/Icon_request.0a9f1483.svg) no-repeat -340px -51px;
+	width: 16px;
+	height: 19px;
+}
+.icon-user-group {
+    background-color: var(--icon-default-color);
+    mask: url(../../assets/Icons/Icon_request.0a9f1483.svg) no-repeat -74px -29px;
+	width: 20px;
+	height: 17px;
+}
+.icon-authori {
+    background-color: var(--icon-default-color);
+    mask: url(../../assets/Icons/ic_authori.6d6e0cb4.svg);
+}
+.icon-sign {
+    background-color: var(--icon-default-color);
+    mask: url(../../assets/Icons/ic_sign.58f108dc.svg);
+}
+.icon-search {
+    background: url(../../assets/Icons/Icon.9280241f.svg) no-repeat -195px -3px;
+	width: 17px;
+	height: 18px;
+}
+.icon-add {
+    background-color: var(--button-primary-color);
+    mask: url(../../assets/Icons/Icon.9280241f.svg) no-repeat -244px -4px;
+	width: 16px;
+	height: 16px;
+    background-repeat: no-repeat;
+}
+.icon-setting {
+    background: url(../../assets/Icons/Icon.9280241f.svg) no-repeat -266px -146px;
+	width: 20px;
+	height: 20px;
+}
+.icon-chevron {
+    background: url(../../assets/Icons/Icon.9280241f.svg) no-repeat -31px -129px;
+	width: 10px;
+	height: 6px;
+}
+.icon-check {
+    background-color: var(--primary);
+    mask: url(../../assets/Icons/Icon.9280241f.svg) no-repeat -52px -102px;
+	width: 17px;
+	height: 12px;
+}
+.icon-prev {
+    background: url(../../assets/Icons/Icon.9280241f.svg) no-repeat -57px -127px;
+	width: 6px;
+	height: 10px;
+}
+.icon-next {
+    background: url(../../assets/Icons/Icon.9280241f.svg) no-repeat -81px -127px;
+	width: 6px;
+	height: 10px;
+}
+.icon-close {
+    background: url(../../assets/Icons/Icon.9280241f.svg) no-repeat -222px -30px;
+	width: 12px;
+	height: 12px;
+}
+.icon-copy {
+    background: url(../../assets/Icons/Icon.9280241f.svg) no-repeat -27px -147px;
+	width: 18px;
+	height: 18px;
+}
+.icon-delete {
+    background-color: #de1e1e!important;
+    mask: url(../../assets/Icons/Icon_request.0a9f1483.svg) no-repeat -267px -4px;
+	width: 18px;
+	height: 18px;
+}
+.icon-refresh {
+    background-color: #686c7b!important;
+    mask: url(../../assets/Icons/Icon_request.0a9f1483.svg) no-repeat -147px -75px;
+	width: 18px;
+	height: 19px;
+}
+.icon-toast-success{
+    background-color: #fff;
+    mask: url(../../assets/Icons/Icon_request.0a9f1483.svg) no-repeat -624px -25px;
+	width: 20px;
+	height: 16px;
+}
+.bgi-upload-file {
+    background-image: url(../../assets/Icons/Shape_SoBanGhi.png);
+}
+.bgi-valid {
+    background-image: url(../../assets/Icons/Shape_HopLe.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bgi-invalid {
+    background-image: url(../../assets/Icons/Shape_KhongHopLe.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.icon-import {
+    background-image: url(../../assets/Icons/ic_NhapKhau_80.svg);
+}
+
+
+.icon-center {
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.icon-right {
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.icon-left {
+    background-repeat: no-repeat;
+    background-position-x: 8px;
+    background-position-y: center;
+}

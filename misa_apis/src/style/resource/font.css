@@ -1,0 +1,45 @@
+
+body {
+    font-family: Roboto,Helvetica,Arial,sans-serif !important;
+    font-size: 14px;
+}
+
+h1 {
+    font-family: Roboto,Helvetica,Arial,sans-serif !important;
+    font-size: 32px;
+}
+
+h2 {
+    font-family: Roboto,Helvetica,Arial,sans-serif !important;
+    font-size: 28px;
+}
+
+h3 {
+    font-family: Roboto,Helvetica,Arial,sans-serif !important;
+    font-size: 24px;
+}
+
+h4 {
+    font-family: Roboto,Helvetica,Arial,sans-serif !important;
+    font-size: 20px;
+}
+
+h5 {
+    font-family: Roboto,Helvetica,Arial,sans-serif !important;
+    font-size: 18px;
+}
+
+title {
+    font-family: Roboto,Helvetica,Arial,sans-serif !important;
+    font-size: 16px;
+}
+
+button {
+    font-family: Roboto,Helvetica,Arial,sans-serif !important;
+    font-size: 14px;
+}
+
+::placeholder {
+    font-family: Roboto,Helvetica,Arial,sans-serif !important;
+    font-size: 14px;
+}
